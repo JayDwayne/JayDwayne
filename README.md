@@ -163,8 +163,8 @@ while(dev.isCoding() && dev.isStuck())
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Envoy_1084-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaydwayne)
-[![Gmail](https://img.shields.io/badge/-envoy1084-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hello@jaydwayne.com)
+[![Linkedin](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaydwayne)
+[![Gmail](https://img.shields.io/badge/-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hello@jaydwayne.com)
 [![DEV.TO Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/jaydwayne)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://jaydwayne.hashnode.dev/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/jaydwayneshow)
