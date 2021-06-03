@@ -13,15 +13,15 @@ document.write("Hello World");
 
 var status = 
 { 
-  learning : [JavaScript,React,Blockchain],
-  interests: [Research, Open Source Contribution]
+  learning : [ Intercal, Swift, Litho, Scala, ELM, Blockchain],
+  interests: [Research, Open Source Contribution, Software Development, Motion Graphics, Design, augmented reality. VR]
 }
 
 const skills = 
 {
-  languages :[Python, Bash, Html, Css, Javascript],
+  languages :[Python, C#, Java, Bash, Html, Css, Javascript],
   
-  ide       :[Vs Code, PyCharm, repl.it],
+  ide       :[Vs Code, PyCharm, repl.it, CodeBlocks],
   
   libraries :[ Numpy, Pandas, Sklearn, Seaborn, Matplotlib, Tkinter],
   
@@ -46,27 +46,27 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
+- [Javascript VS Typescript](https://www.linkedin.com/pulse/javascript-vs-typescript-why-you-should-learn-jay-dwayne/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BJLb6BszbTsWflChPg6JaYw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view)
+- [Hot Web Development Resources for 2021](https://www.linkedin.com/pulse/web-development-2021-top-10-resources-you-need-jay-dwayne/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BJLb6BszbTsWflChPg6JaYw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view)
+- [Serverless Computing](https://www.linkedin.com/pulse/matchless-power-serverless-cloud-native-front-end-backend-jay-dwayne/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BJLb6BszbTsWflChPg6JaYw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view)
+- [Divergent Techvolution: How APIs Fulfill the Original Promise of Service Oriented Architecture](https://www.linkedin.com/pulse/divergent-techvolution-how-apis-fulfill-original-promise-jay-dwayne/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BJLb6BszbTsWflChPg6JaYw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view)
+- [Becoming A Web Developer in 2020, All you need to Know.](https://www.linkedin.com/pulse/becoming-web-developer-2020-jay-dwayne/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BJLb6BszbTsWflChPg6JaYw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view)
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
 
-<a href="https://github.com/Envoy-VC/Python-Scripts">
+<a href="https://github.com/JayDwayne/Safaricom--mpesa-api-C-Sharp">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=Python-Scripts&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
 
-<a href="https://github.com/Envoy-VC/Learn-JavaScript">
+<a href="https://github.com/JayDwayne/AntivirusCSharp">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=Learn-JavaScript&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
-<a href="https://github.com/Envoy-VC/Badges-for-GitHub">
+<a href="https://github.com/JayDwayne/Food-Or-Foe">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Envoy-VC&repo=Badges-for-GitHub&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
@@ -85,11 +85,11 @@ while(dev.isCoding() && dev.isStuck())
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Envoy_1084-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-chainani)
-[![Gmail](https://img.shields.io/badge/-envoy1084-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:envoy1084@gmail.com)
-[![DEV.TO Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/envoy_)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://envoy1084.hashnode.dev/)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC78DzAGJBqa8hds6LQ7G5fQ)
+[![Linkedin](https://img.shields.io/badge/-Envoy_1084-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaydwayne)
+[![Gmail](https://img.shields.io/badge/-envoy1084-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hello@jaydwayne.com)
+[![DEV.TO Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/jaydwayne)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://jaydwayne.hashnode.dev/)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/jaydwayneshow)
 
 ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
