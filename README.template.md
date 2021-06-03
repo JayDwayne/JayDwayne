@@ -1,14 +1,14 @@
-[![Dwayne_'s GitHub Banner](./assets/banner.png)](https://jaydwayne.com/)
+[![Envoy_'s GitHub Banner](./assets/banner.png)](https://envoy1084.hashnode.dev/)
 
 ![Visits](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Envoy-VC&repo=Envoy-VC-visitors-badge&countColorcountColor&countColor=%237B1E7A)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/UncleJayDwayne)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jaydwayne/)
-[![DEV.TO Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/jaydwayne)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Envoy_1084)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vedant-chainani/)
+[![DEV.TO Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/envoy_)
 
 Hey there 👋
 
 ```js
-const name = 'Jay Dwayne';
+const name = 'Vedant Chainani';
 document.write("Hello World");
 
 var status = 
@@ -33,7 +33,7 @@ const skills =
 }
 
 
-Developer dev = new Developer(Jay Dwayne);
+Developer dev = new Developer(Envoy-VC);
 
 while(dev.isCoding() && dev.isStuck())  
 {
@@ -46,11 +46,7 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Python  .MD 2 .PDF](https://envoy1084.hashnode.dev/python-md-2-pdf)
-- [Git and GitHub Essentials - #7 Undoing](https://envoy1084.hashnode.dev/7-undoing)
-- [Git and GitHub Essentials - #6 Git Diff](https://envoy1084.hashnode.dev/6-git-diff)
-- [Learn JavaScript the Eloquent Way- Operators](https://envoy1084.hashnode.dev/learn-javascript-operators)
-- [Git and GitHub Essentials - #5 Ignoring Files and Folders](https://envoy1084.hashnode.dev/5-ignoring-files-and-folders)
+
 <!-- BLOG-POST-LIST:END --> 
 
 ## 📌 Pinned Repositories
@@ -111,16 +107,16 @@ while(dev.isCoding() && dev.isStuck())
 ![btc address](https://img.shields.io/badge/BTC-bc1q832u7flm5uylpqq68ehrxwfqyfq9tgmln8pg9d-76B900?style=for-the-badge)
 
 ## 📣 Quote of the hour
-<p>Perl – The only language that looks the same before and after RSA encryption.</p>
+<p>{quote}</p>
 
-<p>Keith Bostic</p>
+<p>{author}</p>
 
 Check back in an hour for new quote
 
 ## 📣 Joke of the hour
 
-<p>To understand what recursion is...</p>
-<p>You must first understand what recursion is</p>
+<p>{joke}</p>
+<p>{punchline}</p>
 
 
 Check back in an hour for new joke
