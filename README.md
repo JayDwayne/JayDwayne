@@ -14,7 +14,7 @@ document.write("Hello World");
 var status = 
 { 
   learning : [ Intercal, Swift, Litho, Scala, ELM, Blockchain],
-  interests: [Research, Open Source Contribution, Software Development, Motion Graphics, Design, augmented reality. VR]
+  interests: [Research, Open Source Contribution, Software Development, Motion Graphics, Design, Augmented reality, VR]
 }
 
 const skills = 
