@@ -124,6 +124,9 @@ while(dev.isCoding() && dev.isStuck())
 # 📩 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [An Exploratory Account of Software Reverse Engineering in a Security Context](https://jaydwayne.medium.com/an-exploratory-account-of-software-reverse-engineering-in-a-security-context-1247883059c6)
+
+
 - [Javascript VS Typescript](https://www.linkedin.com/pulse/javascript-vs-typescript-why-you-should-learn-jay-dwayne/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BJLb6BszbTsWflChPg6JaYw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view)
 - [Hot Web Development Resources for 2021](https://www.linkedin.com/pulse/web-development-2021-top-10-resources-you-need-jay-dwayne/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BJLb6BszbTsWflChPg6JaYw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view)
 - [Serverless Computing](https://www.linkedin.com/pulse/matchless-power-serverless-cloud-native-front-end-backend-jay-dwayne/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_featured%3BJLb6BszbTsWflChPg6JaYw%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base_featured-featured_item_detail_view)
