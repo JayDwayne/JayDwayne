@@ -5,7 +5,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jaydwayne/)
 [![DEV.TO Badge](https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/jaydwayne)
 
-Hey there 👋 i'M jAy dWAyNe, A reverent tEcHNoPhIlE. 
+Hey there 👋 i'M jAy dWAyNe, A reverent tEcHNoPhIlE, A former baby, an Avocado Lover, Inspired by dank memes and Big dreams :').  Oh! Wait, scratch that, lemme start a fresh.... ( Clears Throat )
+
 🎓 I am Jay Dwayne, a **Cross Platform Developer** (specializing in **Full Stack Development**) holder of a Bachelors in **Computer Science & Mathematics**.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and am really enthusiastic about learning new technology.
